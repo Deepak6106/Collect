@@ -1,0 +1,341 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="* MIXED01", HUMRAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="* MIXED01", AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="* MIXED01", Khyber TV
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="* MIXED01", Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="* MIXED01", Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="* MIXED01", Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="* MIXED01", Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="* MIXED01", Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="* MIXED01", Subrang TV (US) (Opt-1)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="* MIXED01", Subrang TV (US) (Opt-2)
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="* MIXED01", Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="* MIXED01", Tag TV (Opt-2)
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="* MIXED01", Toronto 360 TV (CA)
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="* MIXED01", Urdu TV Toronto (CA)
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="* MIXED01", Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="* MIXED01", Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01", itv2
+http://51.52.156.22:8888/http/005
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01", itv3
+http://51.52.156.22:8888/http/006
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01", itv4
+http://51.52.156.22:8888/http/007
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="* MIXED01", Cine Series
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jw3soCz.png" group-title="* MIXED01", Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1pUWdH.jpg" group-title="* MIXED01", Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="* MIXED01", KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="* MIXED01", Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="* MIXED01", BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="* MIXED01", ANIMAX
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="* MIXED01", AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="* MIXED01", SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5V2LiM.png" group-title="* MIXED01", ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVq6IyP.png" group-title="* MIXED01", 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="* MIXED01", PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="* MIXED01", Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnFVOYD.jpg" group-title="* MIXED01", Sports Kool
+http://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01", Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01", Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01", Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01", Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01", Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01", Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01", Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01", Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01", Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vc9Oh20.jpg" group-title="* MIXED01", Arryadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="* MIXED01", ATG
+http://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="* MIXED01", Bek Sports East
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="* MIXED01", Bek Sports West
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="* MIXED01", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="* MIXED01", Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="* MIXED01", Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="* MIXED01", Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="* MIXED01", Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="* MIXED01", Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYKdpJv.png" group-title="* MIXED01", Edge Sports
+http://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="* MIXED01", Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="* MIXED01", Horizon Sports
+http://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="* MIXED01", Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="* MIXED01", Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="* MIXED01", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="* MIXED01", Sharjah Sport
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="* MIXED01", TDM Sports Macau
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="* MIXED01", Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tm-turkmenistan-spor.jpg" group-title="* MIXED01", Turkmenistan Sports
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysfzbIO.jpg" group-title="* MIXED01", Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="* MIXED01", World Of Free Sports TV
+http://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="* MIXED01", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TnySS9.png" group-title="* MIXED01", TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="* MIXED01", Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="* MIXED01", NHK WORLD HD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53N0NTK.png" group-title="* MIXED01", Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="* MIXED01", Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npaOE9P.png" group-title="* MIXED01", CBS News
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fnxMNd7.png" group-title="* MIXED01", Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93hJZzh.png" group-title="* MIXED01", YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="* MIXED01", Mir News 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="* MIXED01", PTV News
+https://wowzaprod225-i.akamaihd.net/hls/live/1006381/4e0894f2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="* MIXED01", 92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="* MIXED01", Dunya News
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="* MIXED01", Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="* MIXED01", Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="* MIXED01", Lahore News
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6zZmZtJ.jpg" group-title="* MIXED01", Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/361-3617902_http-www-indigital-co-635967475567880057-cnn-news-18.png" group-title="* MIXED01", CNN NEWS 18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="* MIXED01", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="* MIXED01", ABP NEWS
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOlCIQb.jpg" group-title="* MIXED01", Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png" group-title="* MIXED01", ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="* MIXED01", DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="* MIXED01", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="* MIXED01", WEATHER NATION
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="* MIXED01", 9x Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="* MIXED01", MH 1
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4mux80.png" group-title="* MIXED01", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="* MIXED01", RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1gr.cz/fotky/idnes/18/073/c460/MH_917918_327.png" group-title="* MIXED01", Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_lq.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="* MIXED01", Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7ITKi.png" group-title="* MIXED01", MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Classics
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Hits
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Live
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="* MIXED01", DJing Underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="* MIXED01", Q Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LRWC8Uo.png" group-title="* MIXED01", Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZZWF6Q.jpg" group-title="* MIXED01", ROCK TV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKNvyOm.png?1" group-title="* MIXED01", m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVwMEQQ.jpg" group-title="* MIXED01", Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9hs3ep.png" group-title="* MIXED01", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVHanGt.jpg" group-title="* MIXED01", Fashion TV L'Original
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVHanGt.jpg" group-title="* MIXED01", FTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="* MIXED01", ITV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
